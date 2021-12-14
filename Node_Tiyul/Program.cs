@@ -48,9 +48,10 @@ namespace Node_Tiyul
             if (Exists(p, x))
                 Console.WriteLine("FOUND");
             else
-                Console.WriteLine("NOT FOUND);
-      
+                Console.WriteLine("NOT FOUND");
 
+
+        Console.ReadKey();
 
 
         }
